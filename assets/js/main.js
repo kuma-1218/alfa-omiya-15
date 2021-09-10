@@ -21,12 +21,12 @@ const app = Vue.createApp({
           q1: '4',
         },
         stage2: {
-          q1: '4',
+          q1: '14',
           // q2: 'BEEF',
           // q3: '14'
         },
         stage3: {
-          q1: '4',
+          q1: 'BEEF',
           // q2: 'BEEF',
           // q3: '14',
         }
