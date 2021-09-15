@@ -58,7 +58,7 @@ input[type=text] {
 }
 
 ::-webkit-input-placeholder {
-  color: #999;
+  color: #FF33FF;
 }
 
 :-ms-input-placeholder {
@@ -70,7 +70,7 @@ input[type=text] {
 }
 
 ::placeholder {
-  color: #999;
+  color: #FF33FF;
 }
 
 button {
